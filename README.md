@@ -1,7 +1,13 @@
 # VS Code配置文档
 ## 1.vs code插件
-C/C++<br/>
-C++ Intellisense<br/>
+### C/C++
+官方C/C++插件，C/C++必备
+## C++ Intellisense
+官方工具的补充，对以下工具功能增强：<br/>
+跳转到定义；<br/>
+代码自动补全；<br/>
+查找代码引用；<br/>
+列举symbols<br/>
 Chinese (Simplified)<br/>
 CMake<br/>
 CMake Tools<br/>
